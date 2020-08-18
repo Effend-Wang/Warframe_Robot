@@ -1,0 +1,9 @@
+# This is git ignore file
+
+# Ignore python cache files
+__pycache__
+
+# Ignore python pyinstaller files
+*.spec
+build
+dist
